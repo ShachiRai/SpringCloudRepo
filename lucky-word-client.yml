@@ -1,0 +1,8 @@
+---
+fromApplication: applicationValue
+lucky-word: IrishLocal
+#words: icicle,refrigerator,blizzard,snowball
+words: config1,config2,config3,config4
+wordConfig: 
+  luckyWord: NewIrish 
+  preamble: The Lucky Word is 

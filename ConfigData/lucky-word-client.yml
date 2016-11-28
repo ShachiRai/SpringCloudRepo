@@ -4,5 +4,5 @@ lucky-word: IrishLocalUpdated
 #words: icicle,refrigerator,blizzard,snowball
 words: config1,config2,config3,config4
 wordConfig: 
-  luckyWord: NewIrish 
-  preamble: The Lucky Word is 
+  luckyWord: NewIrish Updated
+  preamble: The Lucky Word Updated is 
